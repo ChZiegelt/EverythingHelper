@@ -34,7 +34,7 @@
 
 # Delphi compiler-generated binaries (safe to delete)
 *.exe
-*.dll
+#*.dll
 *.bpl
 *.bpi
 *.dcp
@@ -155,21 +155,6 @@ desktop.ini
 *.cache
 *.ilk
 *.log
-*.dll
 *.lib
 *.sbr
 
-
-# Projekt Spezifische
-*.otares
-SP_Logo_40h.png
-SP_Logo_50h.png
-
-
-
-# Von Frank ?
-*.skincfg
-
-# Inis in Test Ordnern für Hanno
-/**/tests/**/*.ini
-/**/tests/**/*.res
