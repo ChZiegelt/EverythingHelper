@@ -1,6 +1,11 @@
 program EverythingHelper;
 
 uses
+  madExcept,
+  madLinkDisAsm,
+  madListHardware,
+  madListProcesses,
+  madListModules,
   Vcl.Forms,
   EH.Forms.Main in '..\src\EH.Forms.Main.pas' {Form1},
   Everything.DllWrapper in '..\src\Everything.DllWrapper.pas';

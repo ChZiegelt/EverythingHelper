@@ -1,3 +1,9 @@
+// TODO: Sorting columns
+// TODO: Switch StringGrid ?
+// TODO: Color sorted columns by Group
+// TODO: Delete files from Context menu / per Key DEL
+// TODO: Compare files with BeyondCompare by Key Shortcut
+
 unit EH.Forms.Main;
 
 interface
